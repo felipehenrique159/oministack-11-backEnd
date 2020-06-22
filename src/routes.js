@@ -10,8 +10,8 @@ const routes = express.Router()
 
 routes.post('/sessions',SessionController.create)
 
-routes.get('/ongs',OngController.show)
-routes.get('/incidents',IncidentController.show)
+routes.get('/ongs',OngController.index)
+routes.get('/incidents',IncidentController.index)
 routes.get('/profile',ProfileController.index)
 
 routes.post('/ongs',OngController.create)
