@@ -6,7 +6,7 @@
 
 - npm run dev
 
-## Sobre o servidor
+## Sobre a aplicação
 
 Aplicação construída utilizando NODE JS, a aplicação consiste em cadastro de ONGs e Casos que ocorrem no nosso codidiano!
 
