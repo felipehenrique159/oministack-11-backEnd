@@ -1,4 +1,4 @@
-## Aplicação Be a hero Node JS / BACK-END
+## Aplicação Be the hero Node JS / BACK-END
 
 <img src="https://user-images.githubusercontent.com/43323183/91993699-12dbb300-ed0c-11ea-95ec-de747c37ec2c.png">
 
