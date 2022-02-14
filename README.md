@@ -8,7 +8,7 @@
 
 ## Sobre a aplicação
 
-Aplicação construída utilizando NODE JS, a aplicação consiste em cadastro de ONGs e Casos que ocorrem no nosso codidiano!
+Aplicação construída utilizando NODE JS, a aplicação consiste em cadastro de ONGs e Casos que ocorrem no nosso cotidiano!
 
 back-end simples e intuitivo que usa conceitos do node js
 
